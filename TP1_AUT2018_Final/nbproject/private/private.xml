@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="18">
+        <file>
+            <url>src/ca/qc/bdeb/prog3/tp1/modele/Modele.java</url>
+            <bookmark id="7">
+                <name/>
+                <line>40</line>
+                <key/>
+            </bookmark>
+            <bookmark id="13">
+                <name/>
+                <line>102</line>
+                <key/>
+            </bookmark>
+            <bookmark id="12">
+                <name/>
+                <line>220</line>
+                <key/>
+            </bookmark>
+            <bookmark id="6">
+                <name/>
+                <line>262</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/ca/qc/bdeb/prog3/tp1/vue/Quad.java</url>
+            <bookmark id="18">
+                <name/>
+                <line>101</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/ca/qc/bdeb/prog3/tp1/vue/PanneauOption.java</url>
+            <bookmark id="14">
+                <name/>
+                <line>161</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/ca/qc/bdeb/prog3/tp1/vue/OngletJeuHijara.java</url>
+            <bookmark id="17">
+                <name/>
+                <line>37</line>
+                <key/>
+            </bookmark>
+            <bookmark id="16">
+                <name/>
+                <line>133</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/CÉGEP/CÉGEP_AUT2018/PROG/TP1_AUT2018_Version2/src/ca/qc/bdeb/prog3/tp1/modele/Case.java</file>
+            <file>file:/E:/CÉGEP/CÉGEP_AUT2018/PROG/TP1_AUT2018_Version2/src/ca/qc/bdeb/prog3/tp1/modele/Couleur.java</file>
+            <file>file:/E:/CÉGEP/CÉGEP_AUT2018/PROG/TP1_AUT2018_Version2/src/ca/qc/bdeb/prog3/tp1/modele/Carree.java</file>
+            <file>file:/E:/CÉGEP/CÉGEP_AUT2018/PROG/TP1_AUT2018_Version2/src/ca/qc/bdeb/prog3/tp1/modele/Modele.java</file>
+            <file>file:/E:/CÉGEP/CÉGEP_AUT2018/PROG/TP1_AUT2018_Version2/src/ca/qc/bdeb/prog3/tp1/vue/Bouton.java</file>
+            <file>file:/E:/CÉGEP/CÉGEP_AUT2018/PROG/TP1_AUT2018_Version2/src/ca/qc/bdeb/prog3/tp1/vue/Fenetre.java</file>
+            <file>file:/E:/CÉGEP/CÉGEP_AUT2018/PROG/TP1_AUT2018_Version2/src/ca/qc/bdeb/prog3/tp1/vue/BarreJoueur.java</file>
+            <file>file:/E:/CÉGEP/CÉGEP_AUT2018/PROG/TP1_AUT2018_Version2/src/ca/qc/bdeb/prog3/tp1/modele/Joueur.java</file>
+            <file>file:/E:/CÉGEP/CÉGEP_AUT2018/PROG/TP1_AUT2018_Version2/src/ca/qc/bdeb/prog3/tp1/vue/OngletJeuHijara.java</file>
+            <file>file:/E:/CÉGEP/CÉGEP_AUT2018/PROG/TP1_AUT2018_Version2/src/TP1_AUT2018_Version2.java</file>
+            <file>file:/E:/CÉGEP/CÉGEP_AUT2018/PROG/TP1_AUT2018_Version2/src/ca/qc/bdeb/prog3/tp1/vue/Quad.java</file>
+            <file>file:/E:/CÉGEP/CÉGEP_AUT2018/PROG/TP1_AUT2018_Version2/src/ca/qc/bdeb/prog3/tp1/vue/PanneauOption.java</file>
+        </group>
+    </open-files>
+</project-private>
